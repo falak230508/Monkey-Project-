@@ -1,0 +1,2 @@
+# Monkey-Project-
+It is an exciting game where a monkey has to eat bananas placed at regular intervals and jump out of the way of large stones which will be the obstacles for the monkey . You can control the monkey by pressing the" space" button on your keyboard so that it can jump . Remember : the monkey is very ravenous , so do not miss any bananas , it will not increase your score . Hope you enjoy the game !!
